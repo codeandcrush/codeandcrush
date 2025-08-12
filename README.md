@@ -26,7 +26,7 @@ To be a global leader in **data analytics education and consulting**, enabling i
 
 ## 📌 Connect with Us
 
-🌐 **Website**: [https://codecrush.in](https://codecrush.in)  
+🌐 **Website**: [https://codecrush.in](https://codecrush089.blogspot.com/)  
 📸 **Instagram**: [https://instagram.com/codeandcrush](https://instagram.com/codeandcrush)  
 📺 **YouTube**: [https://youtube.com/@codeandcrush](https://youtube.com/@codeandcrush)  
 🐦 **X (Twitter)**: [https://x.com/codeandcrush](https://x.com/codeandcrush)   
