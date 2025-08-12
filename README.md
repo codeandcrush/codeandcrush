@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=codeandcrush&label=Profile%20Views&color=0e75b6&style=flat)
+
 # 📊 CodeandCrush
 
 **Empowering Businesses & Learners Through Data-Driven Insights**
