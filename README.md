@@ -24,4 +24,13 @@ To be a global leader in **data analytics education and consulting**, enabling i
 
 ---
 
-📌 **Check out our GitHub repositories** for ready-to-use **project ideas, datasets, and tutorials** that can take your skills or business to the next level.
+## 📌 Connect with Us
+
+🌐 **Website**: [https://codecrush.in](https://codecrush.in)  
+📸 **Instagram**: [https://instagram.com/codeandcrush](https://instagram.com/codeandcrush)  
+📺 **YouTube**: [https://youtube.com/@codeandcrush](https://youtube.com/@codeandcrush)  
+🐦 **X (Twitter)**: [https://x.com/codeandcrush](https://x.com/codeandcrush)   
+
+---
+
+🚀 **Check out our GitHub repositories** for ready-to-use **project ideas, datasets, and tutorials** that can take your skills or business to the next level.
